@@ -46,5 +46,5 @@ This project was developed to explore real-time image processing, face detection
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/sentinel.git
+git clone https://github.com/Mukesh-Kiran101/sentinel.git
 cd sentinel
