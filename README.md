@@ -41,6 +41,22 @@ This project was developed to explore real-time image processing, face detection
 - MediaPipe
 - The `face_detector.tflite` model file
 
+## Acknowledgements
+
+SENTINEL uses the following computer vision technologies:
+
+- **MediaPipe** — Face detection framework and model integration.
+  https://ai.google.dev/edge/mediapipe/solutions/vision/face_detector
+
+- **TensorFlow Lite (TFLite)** — Model format and inference ecosystem.
+  https://www.tensorflow.org/lite
+
+The face detection model is a third-party asset. Credit and licensing
+terms should be verified against the original model source.
+
+SENTINEL's application code and its dependencies may have separate
+licensing terms.
+
 ## Installation
 
 ### 1. Clone the repository
